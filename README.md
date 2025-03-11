@@ -1,3 +1,3 @@
-# Modus_Template
+# Interior-Design-Website-UI-Template
 
 [Live Preveiw]().
