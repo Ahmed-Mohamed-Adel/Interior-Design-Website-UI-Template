@@ -28,6 +28,7 @@ html::-webkit-scrollbar-track {
 }
 body {
   font-family: "Inter", sans-serif;
+  overflow-x: hidden;
 }
 ul {
   list-style: none;
